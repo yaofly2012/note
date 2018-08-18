@@ -23,7 +23,7 @@ p instanceof Object; // true
 var p2 = Object.create(Person.prototype);
 p2 instanceof Person; // true
 ```
-三、通过instanceof查看JS常见内置对象的关系
+# 三、通过instanceof查看JS常见内置对象的关系
 JS中String，Number，Boolean，Date，Function，Object，RegExp即是函数也是对象，并且Object.prototype又是所有对象的顶层原型。他们跟Function，Object都有着关系。
 ```javascript
 // Number，Boolean，Date，RegExp类似
