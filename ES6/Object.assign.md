@@ -37,3 +37,6 @@ source:
 	Object.getOwnPropertyDescriptor(t, 'b') // {value: 1, writable: true, enumerable: true, configurable: true}
 	```
 **总结一句话**assign方法覆盖或者创建的属性的特性都是true。
+
+# 参考
+[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
