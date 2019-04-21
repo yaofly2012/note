@@ -1,5 +1,8 @@
 # 勤学勤总结，好记性不如烂笔头
 
+# Books
+1. [Exploring ES6](http://exploringjs.com/es6/)
+
 # TODO List
 1. indexDB
 2. workbox源码了
