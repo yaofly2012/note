@@ -10,3 +10,4 @@
 4. JavaScript 数组的演进及其性能
 5. SEO ?
 6. SSR和后端渲染有什么异同？
+-[React 中同构（SSR）原理脉络梳理](https://www.yuque.com/es2049/blog/zy0eq0)
