@@ -1,4 +1,8 @@
 # 勤学勤总结，好记性不如烂笔头
+1. 保持好奇心；
+2. 不分你我，不分边界；
+3. 坚持不懈。
+
 
 # Books
 1. [Exploring ES6](http://exploringjs.com/es6/)
