@@ -4,6 +4,5 @@
 4. Done is done。
 
 
-**Buy me a coffe**
+[**Buy me a coffe**](http://yaofly2012.github.io/donate/)
 
-![dogecoin:DJjSAEf8npezTXEM6A725fQjgDS5tt4CXr](https://user-images.githubusercontent.com/6823623/118978316-c0c9e300-b9a9-11eb-9261-237f2cd3c758.png)
